@@ -1,0 +1,5 @@
+{
+  "name": "PDA Warehouse Location Transfer",
+  "description": "A React application for managing inventory location transfers within a warehouse, designed for PDA devices. It supports both full and partial locator moves.",
+  "requestFramePermissions": []
+}
